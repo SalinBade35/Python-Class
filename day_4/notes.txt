@@ -1,0 +1,13 @@
+conditional statement
+1. if statement
+2. if else statement
+3. elif statement
+4. nested if statement
+
+
+umbrella 
+
+if (condition)
+    it is raining then i will take umbrella with me
+        if condition1
+            if condition2
