@@ -1,0 +1,35 @@
+# OOP : object orient programming
+
+"""
+class : blueprint/ templates
+
+object : real things created from classes
+
+"""
+
+class : animals, 4 wheelers, 2 wheelers
+
+object: 
+    animal : dog, cats, humans, birds
+    4 wheeler: jeep, car, bus 
+    2 wheeler: bike, scooter
+    
+    
+    
+animals:
+    
+    attribute:
+        noise:
+        colors:
+        age:
+                
+    function/methods:
+        eat 
+        sleep
+        reproduce
+        
+object: 
+    dog, cats
+
+    
+
